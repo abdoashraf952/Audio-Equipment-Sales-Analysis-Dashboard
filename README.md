@@ -114,5 +114,6 @@ Detailed insights for selected products, such as **Arctis 7P+**.
 
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/abdoashraf952/Audio-Equipment-Sales-Analysis
+git clone https://github.com/abdoashraf952/Audio-Equipment-Sales-Analysis-Dashboard
+
 ```
